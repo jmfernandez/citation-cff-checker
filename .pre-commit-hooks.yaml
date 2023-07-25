@@ -1,0 +1,7 @@
+-   id: cff_ver_validate
+    name: Validate that a python project and its CITATION.cff report the same version
+    description: 'The extended JSON Schema validator is both a command-line utility and a library for the validation of both JSON schemas and JSON files. Both the schemas and the contents can be in either JSON or YAML'
+    entry: cff-ver-validate
+    language: python
+    files: 'CITATION.cff'
+    require_serial: true
